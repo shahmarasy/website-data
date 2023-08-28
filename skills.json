@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Programming Language",
+    "list": "PHP, JavaScript, TypeScript, Python"
+  },
+  {
+    "title": "Markup Language",
+    "list": "HTML/CSS"
+  },
+  {
+    "title": "PHP Frameworks",
+    "list": "Laravel, Symfony, Codeigniter, Leaf "
+  },
+  {
+    "title": "JS/TS Frameworks and libraries",
+    "list": "JQuery, VueJS, Express, NestJS"
+  },
+  {
+    "title": "Python Frameworks",
+    "list": "Django, Flask, FastAPI"
+  },
+  {
+    "title": "CSS Frameworks",
+    "list": "Bootsrap, Tailwind CSS"
+  },
+  {
+    "title": "Working with APIs",
+    "list": "RESTful, JSON, GraphQL"
+  },
+  {
+    "title": "Database",
+    "list": "MySQL, MariaDB, PostgreSQL, MongoDB, SQLite"
+  },
+  {
+    "title": "Caching & Message Brokers",
+    "list": "Redis, RabitMQL, Kafka"
+  },
+  {
+    "title": "Version Control System",
+    "list": "Git"
+  },
+  {
+    "title": "Package Managers",
+    "list": "NPM, Yarn, Composer, PIP"
+  }
+]
